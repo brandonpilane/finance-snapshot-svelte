@@ -1,5 +1,5 @@
 <script lang="ts">
-	let name: string = 'world';
+	import Header from '$lib/components/Header.svelte';
 </script>
 
-<h1 class="text-4xl font-bold">Hello {name}!</h1>
+<Header />
