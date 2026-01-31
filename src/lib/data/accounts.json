@@ -1,0 +1,5 @@
+[
+  { "id": "chk", "name": "Checking", "type": "Cash", "balance": 2145.30 },
+  { "id": "sav", "name": "Savings", "type": "Cash", "balance": 11250.00 },
+  { "id": "cc", "name": "Credit Card", "type": "Credit", "balance": -923.70 }
+]
